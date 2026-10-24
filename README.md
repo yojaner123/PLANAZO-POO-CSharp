@@ -127,20 +127,16 @@ classDiagram
     GestorReservas o-- Usuario
 ```
 
-## Capturas de pantalla
 
-Ejecuta `dotnet run`, usa la opción 8 y las demás opciones, y guarda las capturas en la carpeta `Capturas/`. Luego enlázalas aquí:
-
-| Caso | Captura |
 |---|---|
-| Menú principal | `![menu](Capturas/01-menu.png)` |
-| 1. Reserva válida | `![caso1](Capturas/02-reserva-valida.png)` |
-| 2. Más entradas que cupos | `![caso2](Capturas/03-sin-cupos.png)` |
-| 3. Cantidad negativa | `![caso3](Capturas/04-cantidad-negativa.png)` |
-| 4. Cancelar y devolver cupos | `![caso4](Capturas/05-cancelacion.png)` |
-| 5. Cancelar dos veces | `![caso5](Capturas/06-doble-cancelacion.png)` |
-| 6. Evento inexistente | `![caso6](Capturas/07-evento-inexistente.png)` |
-| 7. Precios por tipo | `![caso7](Capturas/08-precios.png)` |
+| Menú principal | 
+| 1. Reserva válida | 
+| 2. Más entradas que cupos | 
+| 3. Cantidad negativa | 
+| 4. Cancelar y devolver cupos | 
+| 5. Cancelar dos veces | 
+| 6. Evento inexistente | 
+| 7. Precios por tipo | 
 
 ## Pregunta de sustentación
 
