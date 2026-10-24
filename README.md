@@ -17,7 +17,7 @@ Aplicación de consola en **C# / .NET 8** para gestionar los eventos de PLANAZO 
 Requisito: [.NET SDK 8](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone https://github.com/<yojaner123>/PLANAZO-POO-CSharp.git
+git clone https://github.com/<tu-usuario>/PLANAZO-POO-CSharp.git
 cd PLANAZO-POO-CSharp
 dotnet run
 ```
